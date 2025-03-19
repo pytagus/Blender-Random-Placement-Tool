@@ -1,7 +1,7 @@
 # Blender-Random-Placement-Tool
 Décors de jeu instantanés avec Random Placement Tool | Le plugin Blender 3D
 
-![Blender random placement tool](/image.png)
+![Blender random placement tool](/image.jpg)
 
 Découvrez comment créer des environnements de jeu riches et détaillés en quelques clics avec ce plugin Blender puissant. Placement aléatoire intelligent d'objets avec alignement aux normales, rotation et échelle personnalisables - idéal pour les forêts, les décors urbains et tous types d'environnements 3D.
 
